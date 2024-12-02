@@ -1,1 +1,1 @@
-# TItanic_survived_prdict
+# Titanic_survived_prdict
