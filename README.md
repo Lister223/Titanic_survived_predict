@@ -1,8 +1,9 @@
 # 🚢 Titanic Survival Prediction - Kaggle Competition 🏆
 
 ## 📖 專案介紹
-本專案參與了 **Kaggle 鐵達尼號生存預測競賽**，最終排名 **Top 8%（1194 / 16264）**，最佳預測準確率達 **0.79425**。
-<img width="668" alt="image" src="https://github.com/user-attachments/assets/b4eacea3-325e-4cbe-80d2-112fb731940b"><br><br>
+本專案參與了 **Kaggle 鐵達尼號生存預測競賽**，最終排名 **Top 7%（993 / 15291）**，最佳預測準確率達 **0.79425**。
+ ![image](https://github.com/user-attachments/assets/c8f2baad-40cb-4b14-8b41-20fd7367376f)
+>
 
 ### 📊 競賽目標
 - 預測乘客是否能夠在鐵達尼號沉船事故中生還。
